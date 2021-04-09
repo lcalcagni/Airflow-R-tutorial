@@ -1,5 +1,7 @@
 # Airflow-R-tutorial
-Airflow tutorial for running R scripts
+## Airflow tutorial for running R scripts
+
+### How to run
 
 Create a virtual environment (with Python and R) and activate it. In this case, I created it using anaconda:
 
