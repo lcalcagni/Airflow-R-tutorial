@@ -28,6 +28,7 @@ Start the database
     airflow db init
 
 Create a user
+
     airflow users create \
       --username admin \
       --firstname FIRST_NAME \
